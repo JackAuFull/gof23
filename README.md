@@ -1,54 +1,9 @@
 # 重学 Java 设计模式
 
-> **作者：** 小傅哥，Java Developer，[:pencil2: 虫洞 · 科技栈，作者](https://bugstack.cn)，[:trophy: CSDN 博客专家](https://bugstack.blog.csdn.net)
-
-> 本代码库是作者小傅哥多年从事一线互联网```Java```开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
-
-<br/>
-<div align="center">
-    <a href="https://bugstack.cn" style="text-decoration:none"><img src="https://bugstack.cn/images/system/CodeGuide-LOGO.png?raw=true" width="256px"></a>
-</div>
-<br/>
-
-<div align="center">
-	<a href="https://bugstack.cn/md/other/guide-to-reading.html"><img src="https://bugstack.cn/images/system/CodeGuide-Read.svg"></a>
-	<a href="https://bugstack.cn/images/personal/qrcode.png"><img src="https://bugstack.cn/images/system/CodeGuide-WeiXinCode.svg"></a>
-	<a href="https://bugstack.cn/md/knowledge/pdf/2021-01-26-Java%E9%9D%A2%E7%BB%8F%E6%89%8B%E5%86%8CPDF%E4%B8%8B%E8%BD%BD.html"><img src="https://bugstack.cn/images/system/CodeGuide-JavaPDF.svg"></a>
-	<a href="https://mp.weixin.qq.com/s/VthCUlT8oAJqKOoq5_NzSQ"><img src="https://bugstack.cn/images/system/CodeGuide-Lottery.svg"></a>
-	<a href="https://github.com/fuzhengwei/CodeGuide"><img src="https://badgen.net/github/stars/fuzhengwei/CodeGuide?icon=github&color=4ab8a1"></a>
-</div>
-
-<br/>
-<div align="center">
-    <a href="https://bugstack.cn" style="text-decoration:none"><img src="https://github.com/fuzhengwei/itstack-demo-design/blob/master/pdf.png?raw=true" width="500"></a>
-</div>
-<br/>  
-
-## ⛳ 目录
-
-- [书籍下载&购买](https://github.com/fuzhengwei/itstack-demo-design#%E4%B9%A6%E7%B1%8D%E4%B8%8B%E8%BD%BD%E8%B4%AD%E4%B9%B0)
-- [源码下载](https://github.com/fuzhengwei/itstack-demo-design#%E6%BA%90%E7%A0%81%E4%B8%8B%E8%BD%BD) - [GitHub](https://github.com/fuzhengwei/itstack-demo-design)、[Gitee](https://gitee.com/fustack/itstack-demo-design)
-- [内容简介](https://github.com/fuzhengwei/itstack-demo-design#%E5%86%85%E5%AE%B9%E7%AE%80%E4%BB%8B)
-- [电子版书籍](https://github.com/fuzhengwei/itstack-demo-design#%E7%94%B5%E5%AD%90%E7%89%88%E6%97%A7%E7%89%88---%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB)
-- [参与贡献](https://github.com/fuzhengwei/itstack-demo-design#%E5%8F%82%E4%B8%8E%E8%B4%A1%E7%8C%AE)
-- [与我联系](https://github.com/fuzhengwei/itstack-demo-design#%E4%B8%8E%E6%88%91%E8%81%94%E7%B3%BB)
-- [致谢](https://github.com/fuzhengwei/itstack-demo-design#%E8%87%B4%E8%B0%A2)
-- [Go -> 小傅哥的更多原创内容 面经手册、手撸Spring、字节码编程、DDD实战项目、SpringBoot中间件等](https://github.com/fuzhengwei/CodeGuide)
-
-## 书籍下载&购买
-
-#### - 小傅哥的《重学 Java 设计模式》 ⭐⭐⭐⭐
-
->本书是作者`小傅哥`，投入50天时间，从互联网实际业务开发中抽离出，交易、营销、秒杀、中间件、源码等22个真实业务场景，编写了18万字271页的实战型Java编程资料。如果书中含有不易理解的内容，一定是作者在编写的过程中缺少必要的描述和严格的校准，感谢把你的意见或者疑问提交给我，也欢迎与我多一些交互，互相进步共同成长。
-
-- 旧版电子书：关注公众号：[bugstack虫洞栈 `点击扫码`](https://bugstack.cn/assets/images/qrcode.png)，回复：`设计模式`
-- 新版纸质书：[https://item.jd.com/13218336.html](https://item.jd.com/13218336.html) `内容补充、添加类图、重画图稿、全书彩印`，一本可以在手边随时翻阅的设计模式，感谢支持。
-
 
 ## 源码下载
 
-- **GitHub** [https://github.com/fuzhengwei/itstack-demo-design | `小傅哥 Java 原创版本`](https://github.com/fuzhengwei/itstack-demo-design)
-- **Gitee** [https://gitee.com/fustack/itstack-demo-design | `小傅哥 Java 原创版本`](https://gitee.com/fustack/itstack-demo-design)
+- **GitHub** [https://github.com/JackAuFull/gof23]
 
 *欢迎更多小伙伴，贡献关于此设计模式其他版语言，我会帮你添加链接*
 
@@ -78,38 +33,37 @@
 
 本书属于实战型而不是理论介绍类书籍，每一章节都有对应的完整代码，学习的过程需要参考书中的章节与代码一起学习，同时在学习的过程中需要了解并运行代码。学习完成后进行知识点的总结，以及思考🤔这样的设计模式在自己的业务场景中需要如何使用。
 
-## 电子版(旧版) - 👉[**在线阅读**](https://bugstack.cn/md/develop/design-pattern/2020-05-20-%E9%87%8D%E5%AD%A6Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F%E3%80%8B.html)
 
 - 创建型模式
 
-    - [重学 Java 设计模式《实战工厂方法模式》](https://github.com/fuzhengwei/CodeGuide/blob/master/docs/md/develop/design-pattern/2020-05-20-%E9%87%8D%E5%AD%A6Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F%E3%80%8B.md)
-    - [重学 Java 设计模式《抽象工厂模式》](https://github.com/fuzhengwei/CodeGuide/blob/master/docs/md/develop/design-pattern/2020-05-24-%E9%87%8D%E5%AD%A6Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E6%8A%BD%E8%B1%A1%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F%E3%80%8B.md)
-    - [重学 Java 设计模式《实战建造者模式》](https://github.com/fuzhengwei/CodeGuide/blob/master/docs/md/develop/design-pattern/2020-05-26-%E9%87%8D%E5%AD%A6Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E5%BB%BA%E9%80%A0%E8%80%85%E6%A8%A1%E5%BC%8F%E3%80%8B.md)
-    - [重学 Java 设计模式《实战原型模式》](https://github.com/fuzhengwei/CodeGuide/blob/master/docs/md/develop/design-pattern/2020-05-28-%E9%87%8D%E5%AD%A6%20Java%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E5%8E%9F%E5%9E%8B%E6%A8%A1%E5%BC%8F%E3%80%8B.md)
-    - [重学 Java 设计模式《实战单例模式》](https://github.com/fuzhengwei/CodeGuide/blob/master/docs/md/develop/design-pattern/2020-05-31-%E9%87%8D%E5%AD%A6%20Java%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F%E3%80%8B.md)    
+    - [重学 Java 设计模式《实战工厂方法模式》](https://github.com/JackAuFull/docs/tree/master/docs/md/develop/design-pattern/2020-05-20-%E9%87%8D%E5%AD%A6Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F%E3%80%8B.md)
+    - [重学 Java 设计模式《抽象工厂模式》](https://github.com/JackAuFull/docs/tree/master/docs/md/develop/design-pattern/2020-05-24-%E9%87%8D%E5%AD%A6Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E6%8A%BD%E8%B1%A1%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F%E3%80%8B.md)
+    - [重学 Java 设计模式《实战建造者模式》](https://github.com/JackAuFull/docs/tree/master/docs/md/develop/design-pattern/2020-05-26-%E9%87%8D%E5%AD%A6Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E5%BB%BA%E9%80%A0%E8%80%85%E6%A8%A1%E5%BC%8F%E3%80%8B.md)
+    - [重学 Java 设计模式《实战原型模式》](https://github.com/JackAuFull/docs/tree/master/docs/md/develop/design-pattern/2020-05-28-%E9%87%8D%E5%AD%A6%20Java%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E5%8E%9F%E5%9E%8B%E6%A8%A1%E5%BC%8F%E3%80%8B.md)
+    - [重学 Java 设计模式《实战单例模式》](https://github.com/JackAuFull/docs/tree/master/docs/md/develop/design-pattern/2020-05-31-%E9%87%8D%E5%AD%A6%20Java%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F%E3%80%8B.md)    
 
 - 结构型模式
 
-    - [重学 Java 设计模式《适配器模式》](https://github.com/fuzhengwei/CodeGuide/blob/master/docs/md/develop/design-pattern/2020-06-02-%E9%87%8D%E5%AD%A6%20Java%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E9%80%82%E9%85%8D%E5%99%A8%E6%A8%A1%E5%BC%8F%E3%80%8B.md)
-    - [重学 Java 设计模式《实战桥接模式》](https://github.com/fuzhengwei/CodeGuide/blob/master/docs/md/develop/design-pattern/2020-06-04-%E9%87%8D%E5%AD%A6%20Java%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E6%A1%A5%E6%8E%A5%E6%A8%A1%E5%BC%8F%E3%80%8B.md)
-    - [重学 Java 设计模式《实战组合模式》](https://github.com/fuzhengwei/CodeGuide/blob/master/docs/md/develop/design-pattern/2020-06-08-%E9%87%8D%E5%AD%A6%20Java%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E7%BB%84%E5%90%88%E6%A8%A1%E5%BC%8F%E3%80%8B.md)
-    - [重学 Java 设计模式《实战装饰器模式》](https://github.com/fuzhengwei/CodeGuide/blob/master/docs/md/develop/design-pattern/2020-06-09-%E9%87%8D%E5%AD%A6%20Java%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E8%A3%85%E9%A5%B0%E5%99%A8%E6%A8%A1%E5%BC%8F%E3%80%8B.md)
-    - [重学 Java 设计模式《实战外观模式》](https://github.com/fuzhengwei/CodeGuide/blob/master/docs/md/develop/design-pattern/2020-06-11-%E9%87%8D%E5%AD%A6%20Java%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E5%A4%96%E8%A7%82%E6%A8%A1%E5%BC%8F%E3%80%8B.md)
-    - [重学 Java 设计模式《实战享元模式》](https://github.com/fuzhengwei/CodeGuide/blob/master/docs/md/develop/design-pattern/2020-06-14-%E9%87%8D%E5%AD%A6%20Java%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E4%BA%AB%E5%85%83%E6%A8%A1%E5%BC%8F%E3%80%8B.md)
-    - [重学 Java 设计模式《实战代理模式》](https://github.com/fuzhengwei/CodeGuide/blob/master/docs/md/develop/design-pattern/2020-06-16-%E9%87%8D%E5%AD%A6%20Java%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E4%BB%A3%E7%90%86%E6%A8%A1%E5%BC%8F%E3%80%8B.md)
+    - [重学 Java 设计模式《适配器模式》](https://github.com/JackAuFull/docs/tree/master/docs/md/develop/design-pattern/2020-06-02-%E9%87%8D%E5%AD%A6%20Java%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E9%80%82%E9%85%8D%E5%99%A8%E6%A8%A1%E5%BC%8F%E3%80%8B.md)
+    - [重学 Java 设计模式《实战桥接模式》](https://github.com/JackAuFull/docs/tree/master/docs/md/develop/design-pattern/2020-06-04-%E9%87%8D%E5%AD%A6%20Java%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E6%A1%A5%E6%8E%A5%E6%A8%A1%E5%BC%8F%E3%80%8B.md)
+    - [重学 Java 设计模式《实战组合模式》](https://github.com/JackAuFull/docs/tree/master/docs/md/develop/design-pattern/2020-06-08-%E9%87%8D%E5%AD%A6%20Java%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E7%BB%84%E5%90%88%E6%A8%A1%E5%BC%8F%E3%80%8B.md)
+    - [重学 Java 设计模式《实战装饰器模式》](https://github.com/JackAuFull/docs/tree/master/docs/md/develop/design-pattern/2020-06-09-%E9%87%8D%E5%AD%A6%20Java%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E8%A3%85%E9%A5%B0%E5%99%A8%E6%A8%A1%E5%BC%8F%E3%80%8B.md)
+    - [重学 Java 设计模式《实战外观模式》](https://github.com/JackAuFull/docs/tree/master/docs/md/develop/design-pattern/2020-06-11-%E9%87%8D%E5%AD%A6%20Java%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E5%A4%96%E8%A7%82%E6%A8%A1%E5%BC%8F%E3%80%8B.md)
+    - [重学 Java 设计模式《实战享元模式》](https://github.com/JackAuFull/docs/tree/master/docs/md/develop/design-pattern/2020-06-14-%E9%87%8D%E5%AD%A6%20Java%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E4%BA%AB%E5%85%83%E6%A8%A1%E5%BC%8F%E3%80%8B.md)
+    - [重学 Java 设计模式《实战代理模式》](https://github.com/JackAuFull/docs/tree/master/docs/md/develop/design-pattern/2020-06-16-%E9%87%8D%E5%AD%A6%20Java%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E4%BB%A3%E7%90%86%E6%A8%A1%E5%BC%8F%E3%80%8B.md)
 
 - 行为型模式
 
-    - [重学 Java 设计模式《实战责任链模式》](https://github.com/fuzhengwei/CodeGuide/blob/master/docs/md/develop/design-pattern/2020-06-18-%E9%87%8D%E5%AD%A6%20Java%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E8%B4%A3%E4%BB%BB%E9%93%BE%E6%A8%A1%E5%BC%8F%E3%80%8B.md)
-    - [重学 Java 设计模式《实战命令模式》](https://github.com/fuzhengwei/CodeGuide/blob/master/docs/md/develop/design-pattern/2020-06-21-%E9%87%8D%E5%AD%A6%20Java%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E5%91%BD%E4%BB%A4%E6%A8%A1%E5%BC%8F%E3%80%8B.md)
-    - [重学 Java 设计模式《实战迭代器模式》](https://github.com/fuzhengwei/CodeGuide/blob/master/docs/md/develop/design-pattern/2020-06-23-%E9%87%8D%E5%AD%A6%20Java%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E8%BF%AD%E4%BB%A3%E5%99%A8%E6%A8%A1%E5%BC%8F%E3%80%8B.md)
-    - [重学 Java 设计模式《实战中介者模式》](https://github.com/fuzhengwei/CodeGuide/blob/master/docs/md/develop/design-pattern/2020-06-27-%E9%87%8D%E5%AD%A6%20Java%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E4%B8%AD%E4%BB%8B%E8%80%85%E6%A8%A1%E5%BC%8F%E3%80%8B.md)
-    - [重学 Java 设计模式《实战备忘录模式》](https://github.com/fuzhengwei/CodeGuide/blob/master/docs/md/develop/design-pattern/2020-06-28-%E9%87%8D%E5%AD%A6%20Java%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E5%A4%87%E5%BF%98%E5%BD%95%E6%A8%A1%E5%BC%8F%E3%80%8B.md)
-    - [重学 Java 设计模式《实战观察者模式》](https://github.com/fuzhengwei/CodeGuide/blob/master/docs/md/develop/design-pattern/2020-06-30-%E9%87%8D%E5%AD%A6%20Java%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F%E3%80%8B.md)
-    - [重学 Java 设计模式《实战状态模式》](https://github.com/fuzhengwei/CodeGuide/blob/master/docs/md/develop/design-pattern/2020-07-02-%E9%87%8D%E5%AD%A6%20Java%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E7%8A%B6%E6%80%81%E6%A8%A1%E5%BC%8F%E3%80%8B.md)
-    - [重学 Java 设计模式《实战策略模式》](https://github.com/fuzhengwei/CodeGuide/blob/master/docs/md/develop/design-pattern/2020-07-05-%E9%87%8D%E5%AD%A6%20Java%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F%E3%80%8B.md)
-    - [重学 Java 设计模式《实战模板模式》](https://github.com/fuzhengwei/CodeGuide/blob/master/docs/md/develop/design-pattern/2020-07-07-%E9%87%8D%E5%AD%A6%20Java%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E6%A8%A1%E6%9D%BF%E6%A8%A1%E5%BC%8F%E3%80%8B.md)
-    - [重学 Java 设计模式《实战访问者模式》](https://github.com/fuzhengwei/CodeGuide/blob/master/docs/md/develop/design-pattern/2020-07-09-%E9%87%8D%E5%AD%A6%20Java%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E8%AE%BF%E9%97%AE%E8%80%85%E6%A8%A1%E5%BC%8F%E3%80%8B.md)
+    - [重学 Java 设计模式《实战责任链模式》](https://github.com/JackAuFull/docs/tree/master/docs/md/develop/design-pattern/2020-06-18-%E9%87%8D%E5%AD%A6%20Java%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E8%B4%A3%E4%BB%BB%E9%93%BE%E6%A8%A1%E5%BC%8F%E3%80%8B.md)
+    - [重学 Java 设计模式《实战命令模式》](https://github.com/JackAuFull/docs/tree/master/docs/md/develop/design-pattern/2020-06-21-%E9%87%8D%E5%AD%A6%20Java%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E5%91%BD%E4%BB%A4%E6%A8%A1%E5%BC%8F%E3%80%8B.md)
+    - [重学 Java 设计模式《实战迭代器模式》](https://github.com/JackAuFull/docs/tree/master/docs/md/develop/design-pattern/2020-06-23-%E9%87%8D%E5%AD%A6%20Java%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E8%BF%AD%E4%BB%A3%E5%99%A8%E6%A8%A1%E5%BC%8F%E3%80%8B.md)
+    - [重学 Java 设计模式《实战中介者模式》](https://github.com/JackAuFull/docs/tree/master/docs/md/develop/design-pattern/2020-06-27-%E9%87%8D%E5%AD%A6%20Java%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E4%B8%AD%E4%BB%8B%E8%80%85%E6%A8%A1%E5%BC%8F%E3%80%8B.md)
+    - [重学 Java 设计模式《实战备忘录模式》](https://github.com/JackAuFull/docs/tree/master/docs/md/develop/design-pattern/2020-06-28-%E9%87%8D%E5%AD%A6%20Java%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E5%A4%87%E5%BF%98%E5%BD%95%E6%A8%A1%E5%BC%8F%E3%80%8B.md)
+    - [重学 Java 设计模式《实战观察者模式》](https://github.com/JackAuFull/docs/tree/master/docs/md/develop/design-pattern/2020-06-30-%E9%87%8D%E5%AD%A6%20Java%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F%E3%80%8B.md)
+    - [重学 Java 设计模式《实战状态模式》](https://github.com/JackAuFull/docs/tree/master/docs/md/develop/design-pattern/2020-07-02-%E9%87%8D%E5%AD%A6%20Java%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E7%8A%B6%E6%80%81%E6%A8%A1%E5%BC%8F%E3%80%8B.md)
+    - [重学 Java 设计模式《实战策略模式》](https://github.com/JackAuFull/docs/tree/master/docs/md/develop/design-pattern/2020-07-05-%E9%87%8D%E5%AD%A6%20Java%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F%E3%80%8B.md)
+    - [重学 Java 设计模式《实战模板模式》](https://github.com/JackAuFull/docs/tree/master/docs/md/develop/design-pattern/2020-07-07-%E9%87%8D%E5%AD%A6%20Java%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E6%A8%A1%E6%9D%BF%E6%A8%A1%E5%BC%8F%E3%80%8B.md)
+    - [重学 Java 设计模式《实战访问者模式》](https://github.com/JackAuFull/docs/tree/master/docs/md/develop/design-pattern/2020-07-09-%E9%87%8D%E5%AD%A6%20Java%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E8%AE%BF%E9%97%AE%E8%80%85%E6%A8%A1%E5%BC%8F%E3%80%8B.md)
 
 ---
 
